@@ -1,7 +1,6 @@
 # A-CRMApplication-for-Wholesale-Rice-Mill-Salesforce-
-The Rice Mill CRM Application streamlines daily operations by tracking rice production, sales, and types, with reports sent to owners. Key features include sales reports, rollup summary fields for rice supplies, cross-object formulas for price calculations, IsBlank validation rules, and role-based access permissions.
-
-**Features and Functionality**-
+The Rice Mill CRM Application simplifies daily tasks by managing rice production, sales, and types. It sends regular reports to the owners. Key features include sales reports, rollup summary fields to track rice supplies, formulas for price calculations, validation rules to check empty fields, and role-based access to ensure proper permissions.
+**Features and Functionality-**
 
 1]Reporting and Dashboards:
 
@@ -32,7 +31,7 @@ Employer: Access to worker records.
 Worker: Limited access.
 
 
-**Pre-requisites**-
+**Pre-requisites-**
 
 Salesforce Developer Account: Required for building and deploying the application.
 
